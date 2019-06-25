@@ -1,0 +1,5 @@
+.idea
+dev.yaml
+
+bin/logs/*.log.*
+bin/*.dev

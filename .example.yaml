@@ -1,0 +1,15 @@
+port: 1234
+debug: true
+
+log:
+  level: debug
+  path: ./bin/logs
+
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  pass:
+  dbName: test
+
+
